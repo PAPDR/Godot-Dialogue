@@ -1,0 +1,11 @@
+character1: Hello!\
+Good morning. This is a test for the dialogic. \
+I am including multiple lines and a lot of text to see how the system handles it. So this is a lot of unnecesary text to see how the formatting would work. This is even more text, a lot more emphasizing my earlier point.
+character1: Testing choice options\:\
+How are you today?
+- Good
+- Bad
+- Signal
+	[signal arg="its a signal"]
+Character2: New Character Test!
+character3: Visual Novel Style Test!
