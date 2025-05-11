@@ -35,7 +35,7 @@ layout/style_directory={
 "Visual_Novel_Style": "res://Dialogic Styles/Visual_Novel_Style.tres"
 }
 glossary/default_case_sensitive=true
-layout/style_list=["res://Dialogic Styles/Visual_Novel_Style.tres", "res://Dialogic Styles/Portrait Style.tres"]
+layout/style_list=["res://Dialogic Styles/Visual_Novel_Style.tres", "res://Dialogic Styles/Portrait Style.tres", "res://Dialogic Styles/Visual_Novel_Edit.tres"]
 layout/default_style="res://Dialogic Styles/Visual_Novel_Style.tres"
 variables={}
 extensions_folder="res://addons/dialogic_additions"
